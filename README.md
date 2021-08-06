@@ -9,7 +9,10 @@ java -jar TicTacToe-Game.jar
 
 ## **Prototype TicTacToe Game**
 [download](https://xd.adobe.com/view/f2883775-a828-4916-ae40-110dec3dfe66-a7db/) this prototype tictactoe game.
+
 ![tictactoe prototype](src/tictactoe.jpg)
+
+<br>
 
 ## **Explanation Code**
 1.  data model tictactoe
