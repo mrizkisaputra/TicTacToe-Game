@@ -1,15 +1,18 @@
 # **TicTacToe Game** Project
 this is a my project TicTacToe Game 
 
-## **Run Game**
-**.jar** stored in the target folder
-```bash
-java -jar TicTacToe-Game.jar
-```
+## how to run app
+- download and install [JDK 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+- setup _environment_ and check java version installation on terminal
+    - ```shell
+      java --version
+- download this repository or download **TicTacToe-Game.jar** in the target folder
+- open terminal and go to file **TicTacToe-Game.jar** run the program
+  - ````shell
+    C:\Users\YourComputer\Downloads\TicTacToe-Game> java -jar TicTacToe-Game.jar
+
 
 ## **Prototype TicTacToe Game**
-[download](https://xd.adobe.com/view/f2883775-a828-4916-ae40-110dec3dfe66-a7db/) this prototype tictactoe game.
-
 ![tictactoe prototype](src/tictactoe.jpg)
 
 <br>
